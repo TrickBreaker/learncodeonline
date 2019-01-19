@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OnlineCodein</string>
+    <string name="login_in">Login in</string>
+    <string name="go_back">go back</string>
+    <string name="and_your_email">And your email?</string>
+    <string name="hint_email">Email</string>
+    <string name="lastname">LastName</string>
+    <string name="first_name">First Name</string>
+    <string name="password">Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="choose_a_password">Choose a password</string>
+    <string name="whats_your_name">Whats your name?</string>
+    <string name="welcome_to_onlinecode_in">Welcome to onlinecode.in</string>
+</resources>
